@@ -55,3 +55,6 @@ URxvt.scrollBar: false
 
 ! terminal padding
 URxvt.internalBorder: 20
+
+! Scaling
+Xft.dpi: 140
